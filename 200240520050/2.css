@@ -1,0 +1,10 @@
+.bg {
+  background-image: url(https://picsum.photos/200/300);
+}
+input {
+  font-size: 20px;
+  align-items: center;
+}
+button {
+  font-size: 20px;
+}
